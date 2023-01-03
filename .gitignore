@@ -392,6 +392,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# editorconfig file
+.editorconfig
+
 =======
 # Local
 .env
